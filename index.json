@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "name": "NutHusk 官方插件源",
+  "updated": "2026-10-25T12:00:00Z",
+  "plugins": [
+    {
+      "id": "com.example.hash-calc",
+      "name": "哈希计算",
+      "version": "1.1.0",
+      "description": "本地快速计算文本与文件的 MD5、SHA-1、SHA-256",
+      "author": "claude",
+      "category": "开发",
+      "url": "https://raw.githubusercontent.com/s-re-t-go-x/NutHusk-Plugins/refs/heads/main/plugins/hash-calc-1.1.0.signed.nut",
+	  "sha256": "b44917c07d8b5a2bfdaf3099845b95a1fea449697c0b688e212a88eac064257d",
+      "size": 2807
+    },
+	{
+      "id": "com.example.uuid-gen",
+      "name": "UUID 生成器",
+      "version": "1.0.0",
+      "apiVersion": "^1.0.0",
+      "description": "批量生成随机 UUID（v4），纯前端，无后端、无权限",
+      "category": "开发",
+      "url": "https://raw.githubusercontent.com/s-re-t-go-x/NutHusk-Plugins/refs/heads/main/plugins/uuid-gen-1.0.0.signed.nut",
+	  "sha256": "11c962b7aca01624c297ba60df6e8ad798a0e30e6b8cd31e6c967512b9b72028",
+      "size": 2062
+    },
+	{
+      "id": "com.example.py-wordcount",
+      "name": "字数统计（Python）",
+      "version": "1.0.0",
+      "apiVersion": "^1.0.0",
+      "description": "统计字符、单词、行数和字节数。后端用 Python 编写，演示 NutHusk 对任意语言的支持",
+      "category": "文本",
+      "url": "https://raw.githubusercontent.com/s-re-t-go-x/NutHusk-Plugins/refs/heads/main/plugins/py-wordcount-1.0.0.nut",
+	  "sha256": "b3fe92cee94b03b2c7b5fd7d2a62e9a81868078d636c594931fc7f08b5ebb399",
+      "size": 2517
+    }
+  ]
+}
