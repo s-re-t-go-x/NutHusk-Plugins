@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "name": "NutHusk 官方插件源",
-  "updated": "2026-10-25T12:00:00Z",
+  "updated": "2026-10-28T12:00:00Z",
   "plugins": [
     {
       "id": "com.example.hash-calc",
